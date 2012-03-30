@@ -121,6 +121,8 @@ BOARD_USE_STOREMETADATA := true
 BOARD_USE_METADATABUFFERTYPE := true
 BOARD_USES_MFC_FPS := true
 
+TARGET_SPECIFIC_HEADER_PATH := device/samsung/galaxys2/overlay/include
+
 # assert
 TARGET_OTA_ASSERT_DEVICE := i777,galaxys2att,SGH-I777,galaxys2
 
